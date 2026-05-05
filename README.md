@@ -30,14 +30,7 @@ CRM-система для компании по ремонту квартир, �
 
 > Современный лендинг с каталогом проектов, прайс-листом и виджетом ИИ-консультанта. Клиент может сразу задать вопрос или оставить заявку.
 
-<details>
-<summary> Смотреть демо главной страницы </summary>
-
-<div align="center">
   <img width="1024" height="426" alt="Image" src="https://github.com/user-attachments/assets/6fb768f5-d450-4436-a0d4-baa007897d0e" />
-</div>
-
-</details>
 
 **Ключевые элементы:**
 
@@ -51,14 +44,7 @@ CRM-система для компании по ремонту квартир, �
 
 > Клиент задаёт вопрос → бот находит услугу в прайсе → считает стоимость → отвечает.
 
-<details>
-<summary> Смотреть демо </summary>
-
-<div align="center">
   <img width="320" height="460" alt="Image" src="https://github.com/user-attachments/assets/4d2d8dc5-cb8b-4754-a537-a0b6776fbe8a" />
-</div>
-
-</details>
 
 **Особенности:**
 
@@ -71,14 +57,7 @@ CRM-система для компании по ремонту квартир, �
 
 > Воронка продаж, конверсия, динамика заявок в реальном времени.
 
-<details>
-<summary> Смотреть демо </summary>
-
-<div align="center">
   <img width="1024" height="426" alt="Image" src="https://github.com/user-attachments/assets/08ebabab-73d4-45f2-8193-9236fd3a0762" />
-</div>
-
-</details>
 
 **Метрики в реальном времени:**
 
